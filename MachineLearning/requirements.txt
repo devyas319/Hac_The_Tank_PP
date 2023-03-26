@@ -1,0 +1,12 @@
+ultralytics
+pandas
+numpy
+PIL
+tqdm
+os
+matplotlib
+opencv-python
+tensorflow
+tflearn
+torch
+torchvision
