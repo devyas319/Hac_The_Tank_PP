@@ -17,4 +17,5 @@ ML Folder cosists of machine learning methods:</br>
   - main.py is main model for our work</br>
   - other_model_to_train cosist of other methods</br>
   - yolo_distance gives way to find distance</br>
-<img src="/path/to/img.jpg](https://drive.google.com/file/d/1jqQANETZ15368dfGf1roah3Bypoaho2_/view?usp=share_link" alt="OUTPUT_1" title="Optional title">
+<img src="https://github.com/devyas319/Hac_The_Tank_PP/blob/main/MachineLearning/predictions/aug127_1.png" alt="OUTPUT_1" title="Optional title">
+output images: https://drive.google.com/drive/folders/1S7ue1zn8JaoMAjQT4Fws1AGyx6NHmpR1?usp=sharing
