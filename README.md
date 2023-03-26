@@ -1,6 +1,10 @@
 # Hac_The_Tank_PP
 # Hello From Panda Platinum</br>
 
+seamless experiance without any intervention</br>
+
+NO EDITING! No CROPPING!!!! by user.
+
 
 VISIT OUR WEBSITE AT :https://yourfootdoctor-e628e.web.app/ </br>
 
