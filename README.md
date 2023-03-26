@@ -6,7 +6,7 @@ VISIT OUR WEBSITE AT :https://yourfootdoctor-e628e.web.app/ </br>
 
 
 WEBSITE folder consists of :</br>
-   HTML,CSS,JavaScript</br>
+   HTML,CSS files for full experiance go on website</br>
 
 
 ML Folder cosists of machine learning methods:</br>
