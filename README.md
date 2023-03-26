@@ -17,5 +17,18 @@ ML Folder cosists of machine learning methods:</br>
   - main.py is main model for our work</br>
   - other_model_to_train cosist of other methods</br>
   - yolo_distance gives way to find distance</br>
-<img src="https://github.com/devyas319/Hac_The_Tank_PP/blob/main/MachineLearning/predictions/aug127_1.png" alt="OUTPUT_1" title="Optional title">
-output images: https://drive.google.com/drive/folders/1S7ue1zn8JaoMAjQT4Fws1AGyx6NHmpR1?usp=sharing
+
+# Foot Detection
+![dev_leg_1](https://user-images.githubusercontent.com/117074676/227761822-72f2f2ce-4151-437c-80db-17789301975c.png)
+
+![aug127_1](https://user-images.githubusercontent.com/117074676/227761815-29762b06-d540-48cb-9abf-7d058f7fa497.png)
+
+
+# Arch Detection
+
+![aug127](https://user-images.githubusercontent.com/117074676/227761812-66379d3c-22fa-41cb-a108-8387a8a5e120.png)
+
+
+![dev_leg](https://user-images.githubusercontent.com/117074676/227761820-f672ade7-ef7a-4a1b-85c2-8284624e1460.png)
+
+
